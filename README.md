@@ -4,4 +4,4 @@
 
 ─────
 
-"Code. Learn. Repeat."
+"Code. Learn. Build. Repeat."
