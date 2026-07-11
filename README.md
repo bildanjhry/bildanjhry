@@ -1,3 +1,3 @@
 ## Hi there 👋
-			
-- 🔭 I’m currently working on being fullstack engineer
+
+Fullstack Engineer in progress 🚀
